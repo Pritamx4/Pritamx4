@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" />
 </div>
 
@@ -59,7 +62,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" />
   </a>
   <a href="https://www.youtube.com/@Pritamx4-Studio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="65" height="65"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="60"/>
   </a>
 </div>
 
