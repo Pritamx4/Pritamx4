@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
   Hey, I’m Pritam 👋
 </h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
+</p>
 
 
 ---
@@ -28,10 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" />
 </div>
 
 ---
