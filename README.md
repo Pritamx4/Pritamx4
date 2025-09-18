@@ -16,13 +16,8 @@ You can click the Preview link to take a look at your changes.
   Hey, I’m Pritam 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" /> </p>
 
-<p align="center" style="font-family: 'Consolas', 'Courier New', monospace; font-size:20px; color:#00FFD5; text-shadow: 1px 1px 6px #000000;">
-🚀 Crafting Futuristic Web Experiences | ⚡ AI & Creative Coding Enthusiast | 💡 Always Innovating
-</p>
 
 ---
 
