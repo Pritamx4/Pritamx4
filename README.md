@@ -11,74 +11,64 @@ Pritamx4/Pritamx4 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<!-- Hero Section -->
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size:3em; color:#00FFD5; text-shadow: 2px 2px 5px #000000;">
+<!-- =================== HERO SECTION =================== -->
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Verdana, sans-serif; font-size:3em; color:#00FFD5; text-shadow: 2px 2px 5px #000000;">
   Hey, I’m Pritam 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
 </p>
 
-
-
+<p align="center" style="font-family: 'Consolas', 'Courier New', monospace; font-size:20px; color:#00FFD5; text-shadow: 1px 1px 6px #000000;">
+🚀 Crafting Futuristic Web Experiences | ⚡ AI & Creative Coding Enthusiast | 💡 Always Innovating
+</p>
 
 ---
 
+<!-- =================== TECH ARSENAL =================== -->
 ## 🛠️ Tech Arsenal
 <div align="center">
-  
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![ThreeJS](https://skillicons.dev/icons?i=threejs)
-![Java](https://skillicons.dev/icons?i=java)
-
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
 </div>
 
 ---
 
 ## 🚀 Currently Learning
 <div align="center">
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![ThreeJS](https://skillicons.dev/icons?i=threejs)
-![Java](https://skillicons.dev/icons?i=java)
-
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 <div align="center">
-
-<a href="https://linkedin.com/in/pritamx4">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://x.com/pritamx4_">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://instagram.com/pritamx4_">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://pinterest.com/pritamx4">
-  <img src="https://skillicons.dev/icons?i=pinterest" />
-</a>
-
-<a href="https://youtube.com/@pritamx4">
-  <img src="https://skillicons.dev/icons?i=youtube" />
-</a>
-
+  <a href="https://linkedin.com/in/pritamx4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" />
+  </a>
+  <a href="https://x.com/pritamx4_">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" />
+  </a>
+  <a href="https://instagram.com/pritamx4_">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" />
+  </a>
+  <a href="https://pinterest.com/pritamx4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" />
+  </a>
+  <a href="https://youtube.com/@pritamx4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="65" height="65"/>
+  </a>
 </div>
-
 
 ---
 
@@ -86,40 +76,39 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="https://leetcode.com/u/pritamx4/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/pritamx4">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48" alt="GeeksforGeeks" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/pritamx4">
-  <img src="https://upload.wikimedia.org/commons/6/65/HackerRank_logo.png" width="48" height="48" alt="HackerRank" style="margin: 0 15px;" />
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+</div>
+<div align="center">
+
+<a href="https://leetcode.com/u/pritamx4/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48" alt="LeetCode" style="margin: 0 15px;" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/pritamx4">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="48" height="48" alt="GeeksforGeeks" style="margin: 0 15px;" />
+</a>
+
+<a href="https://www.hackerrank.com/pritamx4">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48" height="48" alt="HackerRank" style="margin: 0 15px;" />
 </a>
 
 </div>
 
 
 
-
-
-
 ---
 
-<!--## 📊 GitHub Stats
-<div align="cemter">
-
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritamx4&show_icons=true&theme=tokyonight&hide_rank=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamx4&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamx4&layout=compact&theme=nightowl) 
-
-
-
-</div>  -->
-
-
 ## 📊 GitHub Stats & Contributions
-
 <div align="center">
 
 ### GitHub Stats
@@ -128,13 +117,14 @@ You can click the Preview link to take a look at your changes.
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamx4&layout=compact&theme=radical&hide_border=false)
 
-### Contribution Graph
-![Pritam's Activity Graph](https://activity-graph.herokuapp.com/graph?username=pritamx4&theme=react-dark&area=true)
+### GitHub Activity Graph
+![Pritam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamx4&theme=react-dark&area=true)
 
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamx4&theme=radical&hide_border=false)
 
 </div>
+
 
 
 
