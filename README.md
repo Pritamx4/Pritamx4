@@ -53,10 +53,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/pritamx4">
+  <a href="https://www.linkedin.com/in/pritam-singh-ab3943296">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" />
   </a>
-  <a href="https://x.com/pritamx4_">
+  <a href="https://x.com/Pritamx4_">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" />
   </a>
   <a href="https://instagram.com/pritamx4_">
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://pinterest.com/pritamx4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" />
   </a>
-  <a href="https://youtube.com/@pritamx4">
+  <a href="https://www.youtube.com/@Pritamx4-Studio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="65" height="65"/>
   </a>
 </div>
@@ -75,36 +75,19 @@ You can click the Preview link to take a look at your changes.
 ## 💻 Coding Profiles
 <div align="center">
 
-<a href="https://leetcode.com/u/pritamx4/">
+<a href="https://leetcode.com/u/pritamx4">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/pritamx4">
+<a href="https://www.geeksforgeeks.org/user/pritamx4">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/pritamx4">
+<a href="https://www.hackerrank.com/profile/Pritamx4">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 </div>
-<div align="center">
-
-<a href="https://leetcode.com/u/pritamx4/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48" height="48" alt="LeetCode" style="margin: 0 15px;" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/pritamx4">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="48" height="48" alt="GeeksforGeeks" style="margin: 0 15px;" />
-</a>
-
-<a href="https://www.hackerrank.com/pritamx4">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48" height="48" alt="HackerRank" style="margin: 0 15px;" />
-</a>
-
-</div>
-
-
 
 ---
 
