@@ -33,7 +33,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" />
+ <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
 </div>
+
 
 ---
 
