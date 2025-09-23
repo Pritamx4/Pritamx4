@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
 ![Pritam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritamx4&theme=react-dark&area=true)
 
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamx4&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritamx4&theme=radical&hide_border=false) 
 
 </div>
 
