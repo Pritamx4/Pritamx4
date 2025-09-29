@@ -106,8 +106,15 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+---
 
-
+<p align="center">
+  <a href="https://open.spotify.com/track/PUT_YOUR_TRACK_ID_HERE" target="_blank" rel="noopener">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145s5lkxn6ji6xstqob653gnn7m&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false" 
+         alt="Spotify Widget"
+         style="border-radius:10px;"/>
+  </a>
+</p>
 
 
 ---
