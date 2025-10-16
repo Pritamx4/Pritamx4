@@ -106,9 +106,8 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
 
-# 🎧 Currently listening🎶
+<!-- # 🎧 Currently listening🎶
 
 <p align="center">
   <a href="https://open.spotify.com/track/PUT_YOUR_TRACK_ID_HERE" target="_blank" rel="noopener">
@@ -116,7 +115,7 @@ You can click the Preview link to take a look at your changes.
          alt="Spotify Widget"
          style="border-radius:10px;"/>
   </a>
-</p>
+</p> -->
 
 
 ---
