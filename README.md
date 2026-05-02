@@ -16,76 +16,38 @@ You can click the Preview link to take a look at your changes.
   Hey, I’m Pritam 👋
 </h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=650&size=28&color=00FFD5&lines=Frontend+Developer;Loves+Cool+Animations;Always+Smiling+%F0%9F%98%84;Learning+New+Tech+Everyday" alt="Typing SVG" />
 </p>
-
 
 ---
 
 <!-- =================== TECH ARSENAL =================== -->
 ## 🛠️ Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
- <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
- <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
- <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
- <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" />
- <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,git,github,vite,mysql" />
+</p>
 
 ---
 
 ## 🚀 Currently Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,java" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/pritam-singh-ab3943296">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" />
-  </a>
-  <a href="https://x.com/Pritamx4_">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" />
-  </a>
-  <a href="https://instagram.com/pritamx4_">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" />
-  </a>
-  <a href="https://pinterest.com/pritamx4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" />
-  </a>
-  <a href="https://www.youtube.com/@Pritamx4-Studio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="60"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pritam-singh-ab3943296"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://x.com/Pritamx4_"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://instagram.com/pritamx4_"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://pinterest.com/pritamx4"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@Pritamx4-Studio"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="60"/></a>
+</p>
 
 ---
 
 ## 💻 Coding Profiles
-<div align="center">
-
-<a href="https://leetcode.com/u/pritamx4">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/pritamx4">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/Pritamx4">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/pritamx4"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;<a href="https://www.geeksforgeeks.org/user/pritamx4"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>&nbsp;<a href="https://www.hackerrank.com/profile/Pritamx4"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -106,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-
+---
 <!-- # 🎧 Currently listening🎶
 
 <p align="center">
@@ -123,5 +85,3 @@ You can click the Preview link to take a look at your changes.
 ## 🎭 Fun Zone
 ```bash
 > Code. Create. Break. Fix. Repeat. 🚀
-
-
