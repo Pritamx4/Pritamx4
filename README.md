@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- =================== HERO SECTION =================== -->
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Verdana, sans-serif; font-size:3em; color:#00FFD5; text-shadow: 2px 2px 5px #000000;">
-  Hey, I’m Pritam 👋
+  Hey, I’m Pritam Singh👋
 </h1>
 
 <p align="center"> 
