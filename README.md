@@ -11,6 +11,7 @@ Pritamx4/Pritamx4 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <!-- =================== HERO SECTION =================== -->
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Verdana, sans-serif; font-size:3em; color:#00FFD5; text-shadow: 2px 2px 5px #000000;">
   Hey, I’m Pritam Singh👋
@@ -22,24 +23,39 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<!-- =================== TECH ARSENAL =================== -->
-## 🛠️ Tech Arsenal
+## 🌐 Live Digital Portfolio
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,git,github,vite,mysql" />
+  <a href="https://pritamx4.vercel.app/">
+    <img src="https://pritamx4.vercel.app/cover.jpg" width="90%" alt="Pritamx4 Live Portfolio" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Currently Learning
+<!-- =================== TECH ARSENAL =================== -->
+## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,threejs,nodejs,express,mongodb,mysql,vite,git,github,vercel,postman" alt="Tech Arsenal" />
+</p>
+
+---
+
+## 🚀 Currently Learning & Exploring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,docker,aws,redis" alt="Currently Learning" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pritam-singh-ab3943296"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://x.com/Pritamx4_"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://instagram.com/pritamx4_"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://pinterest.com/pritamx4"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="48" height="48" alt="Pinterest" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@Pritamx4-Studio"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="60"/></a>
+  <a href="https://pritamx4.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pritamx4"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Pritamx4_"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/pritamx4_"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://pinterest.com/pritamx4"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" width="40" height="40" alt="Pinterest" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@pritamx4-studio"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="42" height="42" alt="YouTube" /></a>
 </p>
 
 ---
@@ -69,6 +85,17 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
+
+## ⚡ Featured Projects
+
+| Project | Stack | Live Link |
+| :--- | :--- | :---: |
+| **🚗 DriveMate** | `React` `Tailwind` `Lucide` | [Visit Live Site](https://drivemate-jet.vercel.app/) |
+| **⚡ PostApp** | `React` `Node.js` `MongoDB` | [Visit Live Beta](https://post-app-3xg1.onrender.com/) |
+| **📋 TaskFlow** | `Next.js` `React` `Tailwind` | [Visit Live App](https://to-do-list-delta-amber-46.vercel.app/) |
+| **☁️ Cloud Notes** | `Node.js` `Express` `MongoDB` | [View Backend Repo](https://github.com/Pritamx4/backend) |
+
+---
 <!-- # 🎧 Currently listening🎶
 
 <p align="center">
@@ -78,7 +105,12 @@ You can click the Preview link to take a look at your changes.
          style="border-radius:10px;"/>
   </a>
 </p> -->
+## 🎯 2026 Engineering Roadmap
 
+- 🔭 **Architecting:** Production-grade full-stack web applications with Next.js & Node.js
+- 🎨 **Mastering:** 3D WebGL shaders, Three.js & advanced GSAP physics
+- 💡 **Exploring:** Distributed backend systems & scalable database design
+- 🤝 **Collaborating:** On high-impact open-source creative development projects
 
 ---
 
